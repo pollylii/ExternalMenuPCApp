@@ -1,0 +1,40 @@
+
+/*
+.PDFcontainer {
+    overflow: auto; 
+}
+*/
+.spanstyle {
+    margin: 13px;
+    display: inline-block;
+}
+
+.BetweenBtn {
+    // font-size: 4rem;
+    font-size: 14px;
+    width: 20%;    
+    display: inline-block;
+}
+
+.ToolBar {
+    z-index:200;
+    position: absolute;
+    width:calc(100vw - 250px);
+    background-color: rgba(249, 249, 249, 0.5);
+    text-align:center;
+    margin: 9px 0;
+    
+}
+
+.btn {
+    width:33%;
+    margin: 0 1%;
+}
+
+.scalebtn {
+    cursor: pointer;
+}
+
+.page {
+    margin: auto !important;
+}

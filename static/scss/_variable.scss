@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+$white: #fff !default;
+$primary: #2d8eff !default;
+
+$gray-1: #f9f9f9 !default;
+$dark-1: #212121 !default;
+
+$container-background: $gray-1 !default;
+
+$dialog-header-background: $primary !default;
+$dialog-header-color: $white !default;
+$dialog-body-background: $gray-1 !default;
+$dialog-body-color: $dark-1 !default;
+
+$box-border-radius: 5px;
